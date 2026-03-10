@@ -1,0 +1,21 @@
+order_id,order_date,ship_date,customer_id,customer_name,segment,country,city,state,region,product_id,category,sub_category,product_name,sales,quantity,discount,profit,unit_price
+CA-2023-001,2023-01-05,2023-01-08,CUST-001,Alex Johnson,Consumer,United States,Los Angeles,California,West,PROD-F-001,Furniture,Chairs,Executive Mesh Chair,450.00,2,0.10,95.40,250.00
+CA-2023-002,2023-01-07,2023-01-10,CUST-002,Maria Garcia,Corporate,United States,Chicago,Illinois,Central,PROD-T-001,Technology,Phones,Smartphone Pro X,899.00,1,0.00,269.70,899.00
+CA-2023-003,2023-01-10,2023-01-14,CUST-003,David Chen,Consumer,United States,New York,New York,East,PROD-S-001,Office Supplies,Paper,Premium Copy Paper (500-sheet),42.00,5,0.05,12.60,9.00
+CA-2023-004,2023-01-12,2023-01-15,CUST-004,Sarah Miller,Home Office,United States,Seattle,Washington,West,PROD-T-002,Technology,Accessories,USB-C Hub 7-in-1,75.00,3,0.00,22.50,25.00
+CA-2023-005,2023-01-15,2023-01-19,CUST-005,James Wilson,Consumer,United States,Houston,Texas,South,PROD-F-002,Furniture,Bookcases,5-Shelf Bookcase,320.00,1,0.20,32.00,400.00
+CA-2023-006,2023-01-18,2023-01-21,CUST-006,Emily Davis,Corporate,United States,Phoenix,Arizona,West,PROD-S-002,Office Supplies,Binders,Heavy-Duty 3-Ring Binder,18.50,10,0.00,7.40,1.85
+CA-2023-007,2023-01-20,2023-01-23,CUST-007,Robert Brown,Consumer,United States,Denver,Colorado,West,PROD-T-003,Technology,Computers,Laptop Ultra 15,1250.00,1,0.00,187.50,1250.00
+CA-2023-008,2023-01-22,2023-01-26,CUST-008,Lisa Anderson,Corporate,United States,Boston,Massachusetts,East,PROD-F-003,Furniture,Tables,Standing Desk Converter,380.00,2,0.10,57.00,211.11
+CA-2023-009,2023-01-25,2023-01-28,CUST-009,Michael Taylor,Home Office,United States,Austin,Texas,South,PROD-S-003,Office Supplies,Storage,File Cabinet 4-Drawer,155.00,1,0.00,31.00,155.00
+CA-2023-010,2023-02-01,2023-02-04,CUST-010,Jessica Martinez,Consumer,United States,San Francisco,California,West,PROD-T-004,Technology,Phones,Wireless Earbuds Pro,129.00,2,0.05,38.70,67.89
+CA-2023-011,2023-02-03,2023-02-07,CUST-001,Alex Johnson,Consumer,United States,Los Angeles,California,West,PROD-S-004,Office Supplies,Labels,Shipping Label Roll (500ct),22.00,4,0.00,8.80,5.50
+CA-2023-012,2023-02-05,2023-02-09,CUST-011,Daniel Thomas,Corporate,United States,Atlanta,Georgia,South,PROD-T-005,Technology,Accessories,Monitor 27in 4K,649.00,3,0.10,97.35,240.37
+CA-2023-013,2023-02-08,2023-02-12,CUST-012,Amanda Jackson,Consumer,United States,Miami,Florida,South,PROD-F-004,Furniture,Chairs,Ergonomic Task Chair,285.00,1,0.00,71.25,285.00
+CA-2023-014,2023-02-10,2023-02-14,CUST-013,Christopher White,Home Office,United States,Portland,Oregon,West,PROD-S-005,Office Supplies,Art,Whiteboard 36x48,89.00,1,0.00,22.25,89.00
+CA-2023-015,2023-02-12,2023-02-15,CUST-014,Ashley Harris,Corporate,United States,Minneapolis,Minnesota,Central,PROD-T-006,Technology,Computers,Tablet 10in,399.00,2,0.05,79.80,209.99
+CA-2023-016,2023-03-01,2023-03-05,CUST-015,Matthew Clark,Consumer,United States,San Diego,California,West,PROD-F-005,Furniture,Furnishings,Desk Lamp LED,45.00,3,0.00,13.50,15.00
+CA-2023-017,2023-03-03,2023-03-07,CUST-016,Samantha Lewis,Corporate,United States,Detroit,Michigan,Central,PROD-S-006,Office Supplies,Paper,Notebook Spiral 5-pack,35.00,6,0.00,10.50,5.83
+CA-2023-018,2023-03-05,2023-03-09,CUST-017,Andrew Lee,Home Office,United States,Nashville,Tennessee,South,PROD-T-007,Technology,Accessories,Mechanical Keyboard,110.00,1,0.00,33.00,110.00
+CA-2023-019,2023-03-08,2023-03-12,CUST-018,Megan Walker,Consumer,United States,Las Vegas,Nevada,West,PROD-F-006,Furniture,Bookcases,Corner Bookshelf,175.00,1,0.15,17.50,205.88
+CA-2023-020,2023-03-10,2023-03-14,CUST-019,Ryan Hall,Corporate,United States,Baltimore,Maryland,East,PROD-T-008,Technology,Phones,Smart Watch Series 3,299.00,2,0.00,89.70,149.50
